@@ -50,7 +50,7 @@
 
     <!-- CRISP HIGH-CONTRAST QR CODE HOUSING BLOCK -->
     <div style="margin-bottom: 20px !important; display: inline-block !important; background-color: #FFFFFF !important; padding: 12px !important; border: 2px dashed #1A488E !important; border-radius: 12px !important; box-shadow: 0 4px 10px rgba(0,0,0,0.05) !important;">
-      <a href="https://github.io" target="_blank" style="text-decoration: none !important; display: block !important;">
+      <a href="https://ednaachiengogutu-png.github.io/Edna-Ogutu-png.github.io/" style="text-decoration: none !important; display: block !important;">
         <img src="https://api.qrserver.com/v1/create-qr-code/?size=170x170&data=https://github.io&color=23272a&bgcolor=ffffff&qzone=1" alt="Scan QR Code to Explore Website Portfolio" style="width: 140px !important; height: 140px !important; display: block !important; margin: 0 auto !important; border: none !important;" />
       </a>
     </div>
