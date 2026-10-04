@@ -75,7 +75,7 @@
     <!-- SCAN INSTANT CAPTION RIBBON ROUTER -->
     <div style="border-top: 1.5px solid #23272A !important; padding-top: 12px !important;">
       <p style="margin: 0 !important; font-size: 11.5px !important; color: #1A488E !important; font-weight: bold; text-transform: uppercase !important; letter-spacing: 0.5px !important;">
-         Scan to explore dev services
+         Scan to explore dev services/samples
       </p>
       <p style="margin: 3px 0 0 0 !important; font-size: 11px !important; color: #23272A !important; font-weight: bold;">
         https://ednaachiengogutu-png.github.io/Edna-Ogutu-png.github.io/
