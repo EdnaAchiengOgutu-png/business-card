@@ -1,4 +1,4 @@
-# 📱 Web Developer & Tech Specialist Card
+# Web Developer & Tech Specialist Card
 
 <!-- FORCE EDGE-TO-EDGE MOBILE VIEWPORT STANDARDIZATION ENGINE -->
 <style>
@@ -31,22 +31,22 @@
     
     <!-- CENTERED CIRCULAR PROFILE PICTURE CONTAINER -->
     <div style="margin-top: -5px !important; margin-bottom: 18px !important; display: inline-block !important;">
-      <img src="https://github.io" alt="Edna Ogutu Portrait" style="width: 105px !important; height: 105px !important; border-radius: 50% !important; border: 3.5px solid #23272A !important; object-fit: cover !important; background-color: #F8FAFC !important; box-shadow: 0 4px 12px rgba(0,0,0,0.08) !important;" />
+      <img src="ednaaa.png" alt="Edna Ogutu Portrait" style="width: 105px !important; height: 105px !important; border-radius: 50% !important; border: 3.5px solid #23272A !important; object-fit: cover !important; background-color: #F8FAFC !important; box-shadow: 0 4px 12px rgba(0,0,0,0.08) !important;" />
     </div>
     
     <!-- RE-ENGINEERED TECH SECTOR BENTO GRID (SOLID WHITE FLOATING CHIPS) -->
     <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 8px !important; width: 100% !important; box-sizing: border-box !important; margin-bottom: 18px !important;">
       <div style="background-color: #FFFFFF; border: 1px solid #CBD5E0; padding: 7px 4px; border-radius: 4px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;">🌐 Web Design</span>
+        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Web Design</span>
       </div>
       <div style="background-color: #FFFFFF; border: 1px solid #CBD5E0; padding: 7px 4px; border-radius: 4px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;">💻 Custom Coding</span>
+        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Custom Coding</span>
       </div>
       <div style="background-color: #FFFFFF; border: 1px solid #CBD5E0; padding: 7px 4px; border-radius: 4px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;">🧼 CRM Audits</span>
+        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> CRM Audits</span>
       </div>
       <div style="background-color: #FFFFFF; border: 1px solid #CBD5E0; padding: 7px 4px; border-radius: 4px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;">💽 Database Checks</span>
+        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Database Checks</span>
       </div>
     </div>
 
@@ -60,10 +60,10 @@
     <!-- SCAN INSTANT CAPTION RIBBON ROUTER -->
     <div style="border-top: 2px solid rgba(35,39,42,0.1) !important; padding-top: 12px !important;">
       <p style="margin: 0 !important; font-size: 11.5px !important; color: #1A488E !important; font-weight: bold; text-transform: uppercase !important; letter-spacing: 0.5px !important;">
-        📷 Scan to explore dev services
+         Scan to explore dev services
       </p>
       <p style="margin: 3px 0 0 0 !important; font-size: 11px !important; color: #718096 !important; font-weight: 600 !important;">
-        ednaachiengogutu-png.github.io
+        [ednaachiengogutu-png.github.io](https://ednaachiengogutu-png.github.io/Edna-Ogutu-png.github.io/)
       </p>
     </div>
 
