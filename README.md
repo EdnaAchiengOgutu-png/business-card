@@ -31,7 +31,7 @@
     
     <!-- CENTERED CIRCULAR PROFILE PICTURE CONTAINER WITH REAL AVATAR -->
     <div style="margin-top: -5px !important; margin-bottom: 18px !important; display: inline-block !important;">
-      <img src="https://github.io" alt="Edna Ogutu Portrait" style="width: 105px !important; height: 105px !important; border-radius: 50% !important; border: 3.5px solid #23272A !important; object-fit: cover !important; background-color: #F8FAFC !important; box-shadow: 0 4px 12px rgba(0,0,0,0.12) !important;" />
+      <img src="ednaaa.png" alt="Edna Ogutu Portrait" style="width: 105px !important; height: 105px !important; border-radius: 50% !important; border: 3.5px solid #23272A !important; object-fit: cover !important; background-color: #F8FAFC !important; box-shadow: 0 4px 12px rgba(0,0,0,0.12) !important;" />
     </div>
     
     <!-- RE-ENGINEERED 4-PILLAR BRAND COMPETENCY GRID -->
