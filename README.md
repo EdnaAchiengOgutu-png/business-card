@@ -48,12 +48,13 @@
       </div>
     </div>
 
-    <!-- REPAIRED HIGH-CONTRAST QR CODE HOUSING BLOCK (POINTS STRAIGHT TO ACTIVE MULTI-TAB WEBSITE PORTFOLIO) -->
+       <!-- REPAIRED HIGH-CONTRAST QR CODE HOUSING BLOCK (POINTS STRAIGHT TO ACTIVE MULTI-TAB WEBSITE PORTFOLIO) -->
     <div style="margin-bottom: 20px !important; display: inline-block !important; background-color: #FFFFFF !important; padding: 12px !important; border: 2px dashed #1A488E !important; border-radius: 12px !important; box-shadow: 0 4px 10px rgba(0,0,0,0.05) !important;">
-      <a href="https://ednaachiengogutu-png.github.io/Edna-Ogutu-png.github.io/" target="_blank" style="text-decoration: none !important; display: block !important;">
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=170x170&data=https://github.io&color=23272a&bgcolor=ffffff&qzone=1" alt="Scan QR Code to Explore Website Portfolio" style="width: 140px !important; height: 140px !important; display: block !important; margin: 0 auto !important; border: none !important;" />
+      <a href="https://ednaachiengogutu-png.github.io/" target="_blank" style="text-decoration: none !important; display: block !important;">
+        <img src="https://qrserver.com" alt="Scan QR Code to Explore Website Portfolio" style="width: 140px !important; height: 140px !important; display: block !important; margin: 0 auto !important; border: none !important;" />
       </a>
     </div>
+
 
     <!-- DUAL-TRACK COMMUNICATIONS BENTO GRID BLOCK -->
     <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 8px !important; width: 100% !important; box-sizing: border-box !important; margin-bottom: 15px !important;">
