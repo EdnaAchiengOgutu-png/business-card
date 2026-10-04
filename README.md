@@ -27,18 +27,18 @@
   <!-- CORE VALUE HOOK CONTENT CARD PANEL -->
   <div style="padding: 20px !important; box-sizing: border-box !important; text-align: center !important;">
     
-    <!-- CENTERED CIRCULAR PROFILE PICTURE CONTAINER -->
+    <!-- CENTERED CIRCULAR PROFILE PICTURE CONTAINER (UPDATED WITH NEW STUDIO BLAZER PORTRAIT) -->
     <div style="margin-top: -5px !important; margin-bottom: 18px !important; display: inline-block !important;">
-      <img src="edn.jpg" alt="Edna Ogutu Portrait" style="width: 105px !important; height: 105px !important; border-radius: 50% !important; border: 3.5px solid #23272A !important; object-fit: cover !important; background-color: #FFFFFF !important; box-shadow: 0 4px 12px rgba(0,0,0,0.12) !important;" />
+      <img src="edna.jpg" alt="Edna Ogutu Professional Portrait" style="width: 105px !important; height: 105px !important; border-radius: 50% !important; border: 3.5px solid #23272A !important; object-fit: cover !important; background-color: #FFFFFF !important; box-shadow: 0 4px 12px rgba(0,0,0,0.12) !important;" />
     </div>
     
-    <!-- RE-ENGINEERED TECH SECTOR BENTO GRID (SOLID WHITE FLOATING CHIPS) -->
+    <!-- RE-ENGINEERED TECH SECTOR BENTO GRID (UPDATED WITH PORTFOLIO DEVELOPMENT) -->
     <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 8px !important; width: 100% !important; box-sizing: border-box !important; margin-bottom: 18px !important;">
       <div style="background-color: #FFFFFF; border: 1.5px solid #23272A; padding: 7px 4px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.04);">
-        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Web Design</span>
+        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Website Design</span>
       </div>
       <div style="background-color: #FFFFFF; border: 1.5px solid #23272A; padding: 7px 4px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.04);">
-        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Custom Coding</span>
+        <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Portfolio Dev</span>
       </div>
       <div style="background-color: #FFFFFF; border: 1.5px solid #23272A; padding: 7px 4px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.04);">
         <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> CRM Audits</span>
@@ -67,11 +67,10 @@
       <!-- EMAIL CHANNEL PANEL -->
       <a href="mailto:hednaogutuh@gmail.com" style="background-color: #FFFFFF; border: 1.5px solid #23272A; border-radius: 8px; padding: 8px 4px; text-align: center; text-decoration: none !important; display: block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
         <span style="color: #718096; font-size: 10px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Email Desk</span>
-        <strong style="color: #1A488E; font-size: 12px; display: block; margin-top: 2px;">hednaogutuh@gmail.com</strong>
+        <strong style="color: #1A488E; font-size: 12px; display: block; margin-top: 2px;">hednaogutuh@gmail.com </strong>
       </a>
 
     </div>
-
 
     <!-- SCAN INSTANT CAPTION RIBBON ROUTER -->
     <div style="border-top: 1.5px solid #23272A !important; padding-top: 12px !important;">
@@ -79,7 +78,7 @@
          Scan to explore dev services
       </p>
       <p style="margin: 3px 0 0 0 !important; font-size: 11px !important; color: #23272A !important; font-weight: bold;">
-        [ednaachiengogutu-png.github.io](https://ednaachiengogutu-png.github.io/Edna-Ogutu-png.github.io/)
+        https://ednaachiengogutu-png.github.io/Edna-Ogutu-png.github.io/
       </p>
     </div>
 
