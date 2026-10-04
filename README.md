@@ -20,19 +20,19 @@
   
   <!-- CROWN HEADER BANNER: OFFICIAL DARK GRAY & GOLDEN YELLOW HIGHLIGHTS -->
   <div style="background-color: #23272A !important; padding: 22px 15px !important; text-align: center !important; border-bottom: 4px solid #FFD200 !important; box-sizing: border-box !important;">
-    <h1 style="color: #FFFFFF !important; margin: 0 0 4px 0 !important; font-size: 22px !important; font-weight: 900 !important; letter-spacing: 0.5px !important; font-family: 'Arial', sans-serif !important; text-transform: uppercase !important;">Edna Ogutu</h1>
-    <p style="color: #FFD200 !important; margin: 0 !important; font-size: 11.5px !important; font-weight: 800 !important; letter-spacing: 0.8px !important; text-transform: uppercase !important; font-family: 'Arial', sans-serif !important;">Web Developer & Tech Consultant </p>
+    <h1 style="color: #FFFFFF !important; margin: 0 0 4px 0 !important; font-size: 21px !important; font-weight: 900 !important; letter-spacing: 0.5px !important; font-family: 'Arial', sans-serif !important; text-transform: uppercase !important;">Edna Ogutu</h1>
+    <p style="color: #FFD200 !important; margin: 0 !important; font-size: 11px !important; font-weight: 800 !important; letter-spacing: 0.8px !important; text-transform: uppercase !important; font-family: 'Arial', sans-serif !important;">Web Developer & Tech Consultant</p>
   </div>
 
   <!-- CORE VALUE HOOK CONTENT CARD PANEL -->
   <div style="padding: 20px !important; box-sizing: border-box !important; text-align: center !important;">
     
-    <!-- CENTERED CIRCULAR PROFILE PICTURE CONTAINER (UPDATED WITH NEW STUDIO BLAZER PORTRAIT) -->
+    <!-- CENTERED CIRCULAR PROFILE PICTURE CONTAINER WITH REAL AVATAR -->
     <div style="margin-top: -5px !important; margin-bottom: 18px !important; display: inline-block !important;">
       <img src="edna.jpg" alt="Edna Ogutu Professional Portrait" style="width: 105px !important; height: 105px !important; border-radius: 50% !important; border: 3.5px solid #23272A !important; object-fit: cover !important; background-color: #FFFFFF !important; box-shadow: 0 4px 12px rgba(0,0,0,0.12) !important;" />
     </div>
     
-    <!-- RE-ENGINEERED TECH SECTOR BENTO GRID (UPDATED WITH PORTFOLIO DEVELOPMENT) -->
+    <!-- RE-ENGINEERED TECH SECTOR BENTO GRID -->
     <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 8px !important; width: 100% !important; box-sizing: border-box !important; margin-bottom: 18px !important;">
       <div style="background-color: #FFFFFF; border: 1.5px solid #23272A; padding: 7px 4px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.04);">
         <span style="color: #1A488E; font-size: 10.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Web Design</span>
@@ -48,38 +48,37 @@
       </div>
     </div>
 
-       <!-- REPAIRED HIGH-CONTRAST QR CODE HOUSING BLOCK (POINTS STRAIGHT TO ACTIVE MULTI-TAB WEBSITE PORTFOLIO) -->
+    <!-- REPAIRED HIGH-CONTRAST QR CODE CONTAINER (POINTS EXACTLY TO THE REAL PATH) -->
     <div style="margin-bottom: 20px !important; display: inline-block !important; background-color: #FFFFFF !important; padding: 12px !important; border: 2px dashed #1A488E !important; border-radius: 12px !important; box-shadow: 0 4px 10px rgba(0,0,0,0.05) !important;">
-      <a href="https://ednaachiengogutu-png.github.io/" target="_blank" style="text-decoration: none !important; display: block !important;">
-        <img src="https://qrserver.com" alt="Scan QR Code to Explore Website Portfolio" style="width: 140px !important; height: 140px !important; display: block !important; margin: 0 auto !important; border: none !important;" />
+      <a href="https://github.io" target="_blank" style="text-decoration: none !important; display: block !important;">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.io&color=23272a&bgcolor=ffffff&qzone=1" alt="Scan QR Code to Explore Website Portfolio" style="width: 140px !important; height: 140px !important; display: block !important; margin: 0 auto !important; border: none !important;" />
       </a>
     </div>
 
-
     <!-- DUAL-TRACK COMMUNICATIONS BENTO GRID BLOCK -->
-    <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 8px !important; width: 100% !important; box-sizing: border-box !important; margin-bottom: 15px !important;">
+    <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 8px !important; width: 100% !important; box-sizing: border-box !important; margin-bottom: 18px !important;">
       
       <!-- PHONE CHANNEL PANEL -->
       <a href="tel:+254741937074" style="background-color: #FFFFFF; border: 1.5px solid #23272A; border-radius: 8px; padding: 8px 4px; text-align: center; text-decoration: none !important; display: block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-        <span style="color: #718096; font-size: 10px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Call Direct</span>
-        <strong style="color: #1A488E; font-size: 12px; display: block; margin-top: 2px;">+254 741 937074</strong>
+        <span style="color: #718096; font-size: 9.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Call Direct</span>
+        <strong style="color: #1A488E; font-size: 11.5px; display: block; margin-top: 2px;">+254 741 937074</strong>
       </a>
 
       <!-- EMAIL CHANNEL PANEL -->
       <a href="mailto:hednaogutuh@gmail.com" style="background-color: #FFFFFF; border: 1.5px solid #23272A; border-radius: 8px; padding: 8px 4px; text-align: center; text-decoration: none !important; display: block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-        <span style="color: #718096; font-size: 10px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Email Desk</span>
-        <strong style="color: #1A488E; font-size: 12px; display: block; margin-top: 2px;">hednaogutuh@gmail.com </strong>
+        <span style="color: #718096; font-size: 9.5px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;">✉️ Email Desk</span>
+        <strong style="color: #1A488E; font-size: 11.5px; display: block; margin-top: 2px;">hednaogutuh@gmail.com </strong>
       </a>
 
     </div>
 
     <!-- SCAN INSTANT CAPTION RIBBON ROUTER -->
     <div style="border-top: 1.5px solid #23272A !important; padding-top: 12px !important;">
-      <p style="margin: 0 !important; font-size: 11.5px !important; color: #1A488E !important; font-weight: bold; text-transform: uppercase !important; letter-spacing: 0.5px !important;">
-         Scan to explore Web/Portfolio Sample and Services
+      <p style="margin: 0 !important; font-size: 11px !important; color: #1A488E !important; font-weight: bold; text-transform: uppercase !important; letter-spacing: 0.5px !important;">
+         Scan to explore web/portfolio sample and services
       </p>
-      <p style="margin: 3px 0 0 0 !important; font-size: 11px !important; color: #23272A !important; font-weight: bold;">
-        (https://ednaachiengogutu-png.github.io/Edna-Ogutu-png.github.io/)
+      <p style="margin: 4px 0 0 0 !important; font-size: 12px !important; color: #23272A !important; font-weight: bold; font-family: 'Arial', sans-serif !important;">
+        ednaachiengogutu-png.github.io
       </p>
     </div>
 
