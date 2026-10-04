@@ -1,5 +1,3 @@
-#  Web Developer & Tech Specialist Card
-
 <!-- FORCE EDGE-TO-EDGE MOBILE VIEWPORT STANDARDIZATION ENGINE -->
 <style>
   header, #header, .title, h1:first-of-type, .markdown-body h1:first-of-type { display: none !important; }
@@ -69,7 +67,7 @@
       <!-- EMAIL CHANNEL PANEL -->
       <a href="mailto:hednaogutuh@gmail.com" style="background-color: #FFFFFF; border: 1.5px solid #23272A; border-radius: 8px; padding: 8px 4px; text-align: center; text-decoration: none !important; display: block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
         <span style="color: #718096; font-size: 10px; font-weight: 800; text-transform: uppercase; display: block; letter-spacing: 0.2px;"> Email Desk</span>
-        <strong style="color: #1A488E; font-size: 12px; display: block; margin-top: 2px;">Inquire Now</strong>
+        <strong style="color: #1A488E; font-size: 12px; display: block; margin-top: 2px;">hednaogutuh@gmail.com </strong>
       </a>
 
     </div>
