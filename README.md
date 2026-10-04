@@ -27,14 +27,14 @@
   <!-- CORE VALUE HOOK CONTENT CARD PANEL -->
   <div style="padding: 20px !important; box-sizing: border-box !important; text-align: center !important;">
     
-    <!-- CENTERED CIRCULAR PROFILE PICTURE CONTAINER -->
+    <!-- CENTERED CIRCULAR PROFILE PICTURE CONTAINER WITH REAL AVATAR -->
     <div style="margin-top: -5px !important; margin-bottom: 15px !important; display: inline-block !important;">
-      <img src="https://icons8.com" alt="Edna Ogutu Portrait" style="width: 90px !important; height: 90px !important; border-radius: 50% !important; border: 3px solid #23272A !important; object-fit: cover !important; background-color: #F8FAFC !important; box-shadow: 0 4px 10px rgba(0,0,0,0.08) !important;" />
+      <img src="ednaaa.png" alt="Edna Ogutu Portrait" style="width: 100px !important; height: 100px !important; border-radius: 50% !important; border: 3px solid #23272A !important; object-fit: cover !important; background-color: #F8FAFC !important; box-shadow: 0 4px 10px rgba(0,0,0,0.08) !important;" />
     </div>
     
     <!-- MINIFIED VERIFIED CORE COMPETENCY TAG CLOUD -->
     <div style="display: flex !important; flex-wrap: wrap !important; gap: 6px !important; justify-content: center !important; margin-bottom: 16px !important;">
-      <span style="background-color: #F8FAFC; color: #1A488E; font-size: 11px; font-weight: 800; padding: 4px 10px; border-radius: 4px; border: 1px solid #CBD5E0; text-transform: uppercase;"> Data Analytics</span>
+      <span style="background-color: #F8FAFC; color: #1A488E; font-size: 11px; font-weight: 800; padding: 4px 10px; border-radius: 4px; border: 1px solid #CBD5E0; text-transform: uppercase;"> Data Analytics Solutions</span>
       <span style="background-color: #F8FAFC; color: #1A488E; font-size: 11px; font-weight: 800; padding: 4px 10px; border-radius: 4px; border: 1px solid #CBD5E0; text-transform: uppercase;"> Quality Checks</span>
     </div>
 
