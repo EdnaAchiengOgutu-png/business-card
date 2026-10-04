@@ -1,6 +1,8 @@
+# 📇 Digital Business Card
+
 <!-- FORCE EDGE-TO-EDGE MOBILE VIEWPORT STANDARDIZATION ENGINE -->
 <style>
-  header, #header, .title, h1:first-of-type { display: none !important; }
+  header, #header, .title, h1:first-of-type, .markdown-body h1:first-of-type { display: none !important; }
   html, body, .markdown-body {
     background-color: #D2F7FF !important;
     margin: 0 !important;
