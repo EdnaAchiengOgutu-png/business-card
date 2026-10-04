@@ -21,7 +21,7 @@
   <!-- CROWN HEADER BANNER: OFFICIAL CONSULTING TITLES ROW -->
   <div style="background-color: #23272A !important; padding: 22px 15px !important; text-align: center !important; border-bottom: 4px solid #FFD200 !important; box-sizing: border-box !important;">
     <h1 style="color: #FFFFFF !important; margin: 0 0 4px 0 !important; font-size: 22px !important; font-weight: 900 !important; letter-spacing: 0.5px !important; font-family: 'Arial', sans-serif !important; text-transform: uppercase !important;">Edna Ogutu</h1>
-    <p style="color: #FFD200 !important; margin: 0 !important; font-size: 12.5px !important; font-weight: 800 !important; letter-spacing: 0.8px !important; text-transform: uppercase !important; font-family: 'Arial', sans-serif !important;">Consultant</p>
+    <p style="color: #FFD200 !important; margin: 0 !important; font-size: 12.5px !important; font-weight: 800 !important; letter-spacing: 0.8px !important; text-transform: uppercase !important; font-family: 'Arial', sans-serif !important;">Data Analyst & Web Designer</p>
   </div>
 
   <!-- CORE VALUE HOOK CONTENT CARD PANEL -->
@@ -34,7 +34,8 @@
     
     <!-- MINIFIED VERIFIED CORE COMPETENCY TAG CLOUD -->
     <div style="display: flex !important; flex-wrap: wrap !important; gap: 6px !important; justify-content: center !important; margin-bottom: 16px !important;">
-      <span style="background-color: #F8FAFC; color: #1A488E; font-size: 11px; font-weight: 800; padding: 4px 10px; border-radius: 4px; border: 1px solid #CBD5E0; text-transform: uppercase;"> Data Analytics Solutions</span>
+      <span style="background-color: #F8FAFC; color: #1A488E; font-size: 11px; font-weight: 800; padding: 4px 10px; border-radius: 4px; border: 1px solid #CBD5E0; text-transform: uppercase;"> Data Analytics</span>
+      <span style="background-color: #F8FAFC; color: #1A488E; font-size: 11px; font-weight: 800; padding: 4px 10px; border-radius: 4px; border: 1px solid #CBD5E0; text-transform: uppercase;"> Web Design</span>
       <span style="background-color: #F8FAFC; color: #1A488E; font-size: 11px; font-weight: 800; padding: 4px 10px; border-radius: 4px; border: 1px solid #CBD5E0; text-transform: uppercase;"> Quality Checks</span>
     </div>
 
