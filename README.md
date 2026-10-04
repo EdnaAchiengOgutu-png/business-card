@@ -21,7 +21,7 @@
   <!-- CROWN HEADER BANNER: OFFICIAL DARK GRAY & GOLDEN YELLOW HIGHLIGHTS -->
   <div style="background-color: #23272A !important; padding: 22px 15px !important; text-align: center !important; border-bottom: 4px solid #FFD200 !important; box-sizing: border-box !important;">
     <h1 style="color: #FFFFFF !important; margin: 0 0 4px 0 !important; font-size: 21px !important; font-weight: 900 !important; letter-spacing: 0.5px !important; font-family: 'Arial', sans-serif !important; text-transform: uppercase !important;">Edna Ogutu</h1>
-    <p style="color: #FFD200 !important; margin: 0 !important; font-size: 11px !important; font-weight: 800 !important; letter-spacing: 0.8px !important; text-transform: uppercase !important; font-family: 'Arial', sans-serif !important;">Data Analyst & Web/Portfolio Developer</p>
+    <p style="color: #FFD200 !important; margin: 0 !important; font-size: 11px !important; font-weight: 800 !important; letter-spacing: 0.8px !important; text-transform: Sentiencecase !important; font-family: 'Arial', sans-serif !important;">Data Analyst & Web/Portfolio Developer</p>
   </div>
 
   <!-- CORE VALUE HOOK CONTENT CARD PANEL -->
@@ -79,7 +79,7 @@
          Scan to explore full portfolio and services
       </p>
       <p style="margin: 4px 0 0 0 !important; font-size: 12px !important; color: #23272A !important; font-weight: bold; font-family: 'Arial', sans-serif !important;">
-        https://ednaachiengogutu-png.github.io/Edna-Ogutu-png.github.io/
+        Edna Ogutu 
       </p>
     </div>
 
